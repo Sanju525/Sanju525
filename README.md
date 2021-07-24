@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+![Profile views](https://komarev.com/ghpvc/?username=Sanju525&color=green)
 
 <!--
 **Sanju525/Sanju525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
